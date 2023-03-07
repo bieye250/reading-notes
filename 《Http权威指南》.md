@@ -19,7 +19,8 @@ MIME type，最初设计为解决邮件传输问题，http采用它来描述多�
 - ASCII文档：text/plain
 
 ## 结构
-[]
+<img width="487" alt="截屏2023-03-06 23 04 47" src="https://user-images.githubusercontent.com/56404426/223460116-f00fccbe-b0a8-4381-a55d-856ab5f68b2b.png">
+
 首部以一个空行结束
 
 ## 30X重定向状态码
